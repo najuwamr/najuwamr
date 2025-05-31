@@ -11,13 +11,6 @@ I'm a big fan of **Zutomayo**, and I also really enjoy artists like **LuckLife**
 
 Lately, I’ve realized that **coding can feel just like writing**: expressing something meaningful, whether it’s obvious or hidden in the details.
 
-## 🎯 Current Focus
-
-- Learning web development fundamentals  
-- Exploring Laravel and PHP  
-- Slowly getting better at Tailwind CSS  
-- Writing better, cleaner, kinder code
-
 ## ✨ Fun facts
 
 - Anime fan 🍿 (from chill slice-of-life to wild fantasy adventures)
