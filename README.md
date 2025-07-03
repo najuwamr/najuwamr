@@ -5,7 +5,7 @@ Welcome to my little corner of GitHub. I'm a curious soul who's just starting ou
 
 ## 🌱 A bit about me
 
-I’m diving into the world of code, trying to build things that work, look good, and maybe even mean something. When I get stuck (which happens more than I’d like to admit 😅), I turn to music to clear my head.
+I’m diving into the world of code, trying to build things that work, look good, and maybe even mean something. When I get stuck (which happens more than I’d like to admit), I turn to music to clear my head.
 
 I'm a big fan of **Zutomayo**, and I also really enjoy artists like **LuckLife** and **Milet** — mostly depens on the mood🎶. Music helps me reconnect with emotion, rhythm, and story — kind of like writing, which I’ve always loved.
 
